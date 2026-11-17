@@ -1,6 +1,6 @@
 {
-  "name": "PaySync BD v1",
-  "version": "v1.0.0",
+  "name": "PaySync BD",  //App Name
+  "version": "v1.0.0", // App Version
   "base_url": "https://conducive-diner-gaining.ngrok-free.dev",
   "api_base_url": "https://conducive-diner-gaining.ngrok-free.dev/api/v1",
   "api_health_check": "https://conducive-diner-gaining.ngrok-free.dev/api/v1/health",
