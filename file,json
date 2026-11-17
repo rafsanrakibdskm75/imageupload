@@ -4,5 +4,5 @@
   "base_url": "https://conducive-diner-gaining.ngrok-free.dev",
   "api_base_url": "https://conducive-diner-gaining.ngrok-free.dev/api/v1",
   "api_health_check": "https://conducive-diner-gaining.ngrok-free.dev/api/v1/health",
-  "manitenance_mode":"1" //Manitenance mode 1 this true and 0 is false
+  "manitenance_mode":"false" //Manitenance mode 1 this true and 0 is false
 }
