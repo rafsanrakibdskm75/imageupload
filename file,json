@@ -1,6 +1,6 @@
 {
-  "name": "PaySync BD API",
-  "version": "v1",
+  "name": "PaySync BD",
+  "version": "v1.0.0",
   "base_url": "https://conducive-diner-gaining.ngrok-free.dev",
   "api_base_url": "https://conducive-diner-gaining.ngrok-free.dev/api/v1",
   "api_health_check": "https://conducive-diner-gaining.ngrok-free.dev/api/v1/health",
